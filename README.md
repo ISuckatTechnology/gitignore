@@ -1,1 +1,10 @@
-# gitignore
+.DS_Store
+node_modules/
+.swiftpm
+.env
+.build/
+build/
+docs/
+test-results/
+playwright-report/
+Sources/ContentScopeScripts/dist/
